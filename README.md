@@ -52,7 +52,7 @@ Installation
 Recommended way of installing this is via [Composer](http://getcomposer.org):
 
 ```bash
-composer require proger89/youtube-downloader "^3.0"
+composer require proger89/youtube-downloader "dev-master"
 ```
 
 Run locally:
