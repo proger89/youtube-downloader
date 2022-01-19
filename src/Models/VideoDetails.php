@@ -33,6 +33,11 @@ class VideoDetails
         return Utils::arrayGet($this->videoDetails, 'title');
     }
 
+    public function getSeconds()
+    {
+        return Utils::arrayGet($this->videoDetails, 'lengthSeconds');
+    }
+
     public function getKeywords()
     {
         return Utils::arrayGet($this->videoDetails, 'keywords');

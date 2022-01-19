@@ -52,13 +52,13 @@ Installation
 Recommended way of installing this is via [Composer](http://getcomposer.org):
 
 ```bash
-composer require athlon1600/youtube-downloader "^3.0"
+composer require proger89/youtube-downloader "^3.0"
 ```
 
 Run locally:
 
 ```bash
-php -S localhost:8000 -t vendor/athlon1600/youtube-downloader/public
+php -S localhost:8000 -t vendor/proger89/youtube-downloader/public
 ```
 
 # Previous versions
